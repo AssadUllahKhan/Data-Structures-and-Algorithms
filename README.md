@@ -63,8 +63,7 @@ Each file is organized topic-wise and contains:
 
 ## 👨‍💻 Author
 
-**Assad Ullah Khan**  
-BS Computer Science  
+**Assad Ullah Khan**   
 
 ---
 
